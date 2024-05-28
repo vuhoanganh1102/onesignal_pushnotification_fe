@@ -1,0 +1,9 @@
+{
+  "name": "OneSignal Push Notifications",
+  "short_name": "PushNotif",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Trang web để đăng ký nhận thông báo đẩy từ OneSignal",
+  "gcm_sender_id": "YOUR-GCM-SENDER-ID"
+}
